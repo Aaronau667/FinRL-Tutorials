@@ -1,0 +1,6 @@
+---
+description: 总结
+globs: 
+alwaysApply: false
+---
+总结以上内容，生成md文件，文件名带summary，然后复制到D:\0Awork\Rag
